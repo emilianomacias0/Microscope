@@ -30,3 +30,7 @@ orionjs:core
 fortawesome:fontawesome
 orionjs:bootstrap
 shell-server
+orionjs:lang-es
+orionjs:summernote
+orionjs:image-attribute
+orionjs:s3
